@@ -1,1 +1,1 @@
-# SolarNova-Solar-Powered-Decentralized-LoRa-Communication-Network
+# SolarNova : Solar-Powered-Decentralized-LoRa-Communication-Network
