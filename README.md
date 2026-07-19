@@ -72,12 +72,12 @@ TinyGPS++ (GPS parsing)
 🧪 Implementation & Results
 
 ✅ Successfully Achieved
-LoRa-based communication between nodes
-Reliable message transmission without internet
-Functional web interface for messaging
-Solar-powered energy system
-Battery backup operation
-The system demonstrated stable performance over short and medium distances, validating its feasibility as an infrastructure-independent communication solution.
+1. LoRa-based communication between nodes
+2. Reliable message transmission without internet
+3. Functional web interface for messaging
+4. Solar-powered energy system
+5. Battery backup operation
+6. The system demonstrated stable performance over short and medium distances, validating its feasibility as an infrastructure-independent communication solution.
 
 🏁 Conclusion
 
